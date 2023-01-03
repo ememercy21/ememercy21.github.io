@@ -8,7 +8,7 @@
 <img src="images/Beyonce Dashboard 3.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Streets of Vintage Client Project](/pdf/sample_presentation.pdf)
 <img src="images/FRmZ-v5UUAALKsN.png?raw=true"/>
 
 ---

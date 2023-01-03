@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Featured 
 
-[Project 1 Title](/sample_page)
+[Lemons to Lemonade](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

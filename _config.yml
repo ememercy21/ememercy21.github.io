@@ -1,11 +1,10 @@
-title: John Doe # your name (or website title) here
+title: Mercy Eme # your name (or website title) here
 logo: "C:\Users\ememe\Documents\github portfolio\website\images" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+ data analyst by day, pop culture and art aficionado by night. if you need a data nerd with a creative flair, i'm your girl! 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/example/">LinkedIn</a>
+  <a href="https://mercysjournal.medium.com/">Medium Blog</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

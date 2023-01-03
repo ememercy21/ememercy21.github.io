@@ -5,7 +5,7 @@
 ### Featured 
 
 [Lemons to Lemonade](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Beyonce Dashboard 3.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

@@ -85,7 +85,7 @@ At the Grammy Awards, Lemonade and songs from the album received several nominat
 
 ### How I Am… Sasha Fierce Exposes the Narrow Criteria for Music Evaluation
 
-<img src="images/FiGyZwNWQA8ju2T 4.png"/>
+<img src="images/FiGyZwNWQA8ju2T.jpg"/>
 
 _Beyoncé's third solo album, 'I Am… Sasha Fierce,' was released in 2008, featuring a seamless blend of R&B, pop, and hip hop._ 
 
@@ -125,10 +125,9 @@ As we look to the 2023 Grammy Awards, we can hope that the changes being impleme
 
 ---
 
-Link to Tableau Dashboard:
-https://public.tableau.com/app/profile/mercy.eme/viz/LemonstoLemonadeASourTasteforBlackArtistsatMusicsMostPrestigiousAwardShow/Dashboard1
+**<a href="https://public.tableau.com/app/profile/mercy.eme/viz/LemonstoLemonadeASourTasteforBlackArtistsatMusicsMostPrestigiousAwardShow/Dashboard1">Tableau Dashboard</a>**
 
-References
+**References**
 
 [1] Aswad, J. (2021, May 3). The Weeknd calls grammys 'corrupt,' despite inspiring their recent rule change: 'I will not be submitting music in the future' (EXCLUSIVE). Variety Daily. https://variety.com/2021/music/news/the-weeknd-grammys-corrupt-rule-change-1234964939/
 

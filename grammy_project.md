@@ -5,6 +5,7 @@
 **Tools Used:** Excel, Tableau
 
 It's that time of year again, music fans! Time to get out the popcorn, crack open a cold one, and huddle around the TV like it's the NBA draft - but instead of ballers, we're picking apart the nominations at the 2023 Grammy Awards. That's right, it's Grammy season and there's been a lot of buzz about the nominations this year. As a self-proclaimed music nerd, I couldn't resist the urge to dive into the controversy surrounding the prestigious award show and see what's really going on beneath all that glitz and glamor.
+
 And who better to focus on than the one and only Beyoncé - a highly visible and critically acclaimed artist who, despite having a diverse and groundbreaking discography, is often pigeonholed into the "urban" categories at the award ceremony. By using Beyoncé as the focus of the project, I was able to compare how various institutions view and categorize her work differently.
 
 ---
@@ -99,7 +100,9 @@ The Grammy Awards recognition of Beyoncé's album I Am… Sasha Fierce highlight
 
 <img src="images/Sasha Fierce.png"/>
 
-It is worth noting that I Am… Sasha Fierce remains Beyoncé's most commercially successful album to date and has garnered her the most Grammy wins and nominations of any of her releases. Among these awards is her only major category win, Song of the Year, for the single, "Single Ladies". I do want to preface this by saying that this criticism should not be interpreted as implying that Beyoncé was "selling out" or compromising her artistic integrity in any way. Instead, I would argue that the focus on the album's commercial success and its appeal to a broad audience reflects a "colorblind" approach to evaluating music, which fails to fully acknowledge and celebrate the unique cultural and artistic contributions of Black artists. I Am… Sasha Fierce was and still is a very successful and well-received album that contributed to Beyoncé's reputation as a talented and influential artist.
+It is worth noting that I Am… Sasha Fierce remains Beyoncé's most commercially successful album to date and has garnered her the most Grammy wins and nominations of any of her releases. Among these awards is her only major category win, Song of the Year, for the single, "Single Ladies". I do want to preface this by saying that this criticism should not be interpreted as implying that Beyoncé was "selling out" or compromising her artistic integrity in any way. 
+
+Instead, I would argue that the focus on the album's commercial success and its appeal to a broad audience reflects a "colorblind" approach to evaluating music, which fails to fully acknowledge and celebrate the unique cultural and artistic contributions of Black artists. I Am… Sasha Fierce was and still is a very successful and well-received album that contributed to Beyoncé's reputation as a talented and influential artist.
 
 **How do the criteria for nomination and selection at the Grammy Awards and a minority-focused award show such as the BET Awards differ?:**
 

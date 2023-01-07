@@ -2,6 +2,8 @@
 
 **Project description:** The purpose of this comparison is to examine the recognition and valuation of a Black artist's work at different award institutions and to identify any discrepancies. This study aims to understande the music industry's view of Black artists and to consider the need for change in these systems.
 
+**Tools Used:** Excel, Tableau
+
 It's that time of year again, music fans! Time to get out the popcorn, crack open a cold one, and huddle around the TV like it's the NBA draft - but instead of ballers, we're picking apart the nominations at the 2023 Grammy Awards. That's right, it's Grammy season and there's been a lot of buzz about the nominations this year. As a self-proclaimed music nerd, I couldn't resist the urge to dive into the controversy surrounding the prestigious award show and see what's really going on beneath all that glitz and glamor.
 And who better to focus on than the one and only Beyoncé - a highly visible and critically acclaimed artist who, despite having a diverse and groundbreaking discography, is often pigeonholed into the "urban" categories at the award ceremony. By using Beyoncé as the focus of the project, I was able to compare how various institutions view and categorize her work differently.
 
@@ -79,7 +81,7 @@ For instance, some of Beyoncé's music and performances have been seen as celebr
 
 Lemonade received recognition at both the Grammy Awards and BET Awards, but was more successful at the latter in terms of winning awards. The album's visual project and her Super Bowl 50 halftime show in 2016 included references to the Black Lives Matter movement and the aftermath of Hurricane Katrina, and were widely praised by some as powerful statements on racial and social justice issues. However, both also sparked controversy and backlash, with some critics arguing that her performance was inappropriate for a mainstream sporting event.
 
-At the Grammy Awards, Lemonade and songs from the album received several nominations, including for Song of the Year and Best Music Video. However, the project received just two awards for the entire album era. Most notably, Beyoncé lost the Album of the Year award in 2017, which sparked online discourse and controversy. At the BET Awards, on the other hand, she was nominated for 13 awards and received a total of 11, including Album of the Year and Video Director of the Year.
+At the Grammys, Lemonade and songs from the album received several nominations, including for Song of the Year and Best Music Video. However, the project received just two awards for the entire album era. Most notably, Beyoncé lost the Album of the Year award in 2017, which sparked online discourse and controversy. At the BET Awards, on the other hand, she was nominated for 13 awards and received a total of 11, including Album of the Year and Video Director of the Year.
 
 ---
 

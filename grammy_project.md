@@ -6,7 +6,7 @@
 
 It's that time of year again, music fans! Time to get out the popcorn, crack open a cold one, and huddle around the TV like it's the NBA draft - but instead of ballers, we're picking apart the nominations at the 2023 Grammy Awards. That's right, it's Grammy season and there's been a lot of buzz about the nominations this year. As a self-proclaimed music nerd, I couldn't resist the urge to dive into the controversy surrounding the prestigious award show and see what's really going on beneath all that glitz and glamor.
 
-And who better to focus on than the one and only Beyoncé - a highly visible and critically acclaimed artist who, despite having a diverse and groundbreaking discography, is often pigeonholed into the "urban" categories at the award ceremony. By using Beyoncé as the focus of the project, I was able to compare how various institutions view and categorize her work differently.
+And who better to focus on than the one and only Beyoncé --- a highly visible and critically acclaimed artist who, despite having a diverse and groundbreaking discography, is often pigeonholed into the "urban" categories at the award ceremony. By using Beyoncé as the focus of the project, I was able to compare how various institutions view and categorize her work differently.
 
 ---
 

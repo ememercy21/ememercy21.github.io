@@ -2,7 +2,7 @@
 
 <img src="images/spotify/zl7druj20vj81.png"/>
 
-**Project description:** This project aims to analyze the visual characteristics of album artwork from various decades, with the goal of discovering patterns and trends that could be applied to the design of future album covers.
+**Project Description:** This project aims to analyze the visual characteristics of album artwork from various decades, with the goal of discovering patterns and trends that could be applied to the design of future album covers.
 
 **Tools Used:** Python (pandas, matplotlib, ColorThief, Spotipy, Glob), Excel
 

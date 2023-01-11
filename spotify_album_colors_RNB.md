@@ -1,6 +1,6 @@
 # Color Me Impressed: A Data-Driven Exploration of Color and Design Trends Among Top-Selling R&B Albums
 
-<img src="images/2018_01_29_39578_1517200847._large.jpg"/>
+<img src="images/spotify/zl7druj20vj81.png"/>
 
 **Project description:** This project aims to analyze the visual characteristics of album artwork from various decades, with the goal of discovering patterns and trends that could be applied to the design of future album covers.
 
@@ -22,21 +22,33 @@ In addition to this, it's also important to consider the potential emotional and
 
 Color theory suggests that certain colors can evoke certain emotions and associations in the viewer. For example, red may be associated with passion and aggression, while blue may be associated with calmness and trustworthiness. The use of color in marketing and branding has long been a topic of interest in the field of psychology and design. Marketing experts often use color psychology to attract and influence customers, and this principle may also be applied to album cover art to create an impactful and memorable design (and ultimately, their decision to purchase an album).
 
+<img src="images/spotify/image-asset.jpeg"/>
 
-
-<img src="images/2018_01_29_39578_1517200847._large.jpg"/>
-
-_Photo courtesy of NBC News._
+_Photo courtesy of Bedtracks._
 
 ---
 
 ## Methodology:
 
-This project builds upon an Op-Ed published in the Los Angeles Times titled "Beyoncé's Grammy snub and the glass ceiling on black art," in which John Vilanova discusses how, despite being the most Grammy-nominated woman ever, Beyoncé's win rate is significantly lower than that of other artists.
+I was inspired by a GitHub project called "modeling_spotify_api_data" created by saracoop, in which they developed a Visual AI model that could accurately predict an album's genre or popularity based on data from the Spotify API. 
 
-The data below, which covers the period up to 2020, for this comparison was drawn from nominations and wins from various award shows. Her most recent nominations have been excluded as the results are still pending at the time of this review. To narrow our focus, we will concentrate on the top five multicultural award shows based on popularity and cultural significance.
+For my own study, I decided to focus on a specific genre, R&B, in order to narrow my focus to a specific type of consumer. I created 4 different playlists on Spotify for four different eras (90s, 2000s, 2010s, and 2020s) to extract information from the top 330 R&B albums from the 1990 to 2022 (top ten albums per year - the list was devised by aggregating more than 50 best-of lists focused on R&B and soul albums - these figures were averaged with the albums’ overall status).
 
-The award type "Race" encompasses award categories that fall under the genres of R&B and hip hop (such as, but not limited to Best R&B Album, Best Rap Album, and Best Rap Performance, among others), which are both predominantly created by Black artists. It's important to highlight that some Black artists are often boxed into these categories, even if they don't primarily make this type of music.
+I used the 'ColorThief' library to extract the dominant color from each album cover. I then used the 'pandas' library to analyze and visualize the data, looking for trends and patterns in the distribution of dominant colors. We also used 'matplotlib' to create charts and graphs to help illustrate my findings.
+
+### Limitations:
+
+**Album Cover designs:** The album cover design is influenced by a lot of factors, color palettes are just one of them, other factors such as images, typography and overall layout also play a significant role in the final design, it's important to consider them in order to have a more complete understanding.
+
+Data:
+
+
+
+
+
+
+
+
 
 **Total Number of entries at each award show:**
 

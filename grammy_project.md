@@ -1,6 +1,6 @@
 # Lemons to Lemonade: A Sour Taste for Black Artists at Music's Most Prestigious Award Show
 
-**Project description:** The purpose of this comparison is to examine the recognition and valuation of a Black artist's work at different award institutions and to identify any discrepancies. This study aims to understande the music industry's view of Black artists and to consider the need for change in these systems.
+**Project Description:** The purpose of this comparison is to examine the recognition and valuation of a Black artist's work at different award institutions and to identify any discrepancies. This study aims to understande the music industry's view of Black artists and to consider the need for change in these systems.
 
 **Tools Used:** Excel, Tableau
 

@@ -1,6 +1,8 @@
 # Color Me Impressed: A Data-Driven Exploration of Color and Design Trends Among Top-Selling R&B Albums
 
-**Project description:** The purpose of this project is to examine the trends of album artwork over various decades and in hopes of identifying patterns and trends that could inform the design of future album covers.
+<img src="images/2018_01_29_39578_1517200847._large.jpg"/>
+
+**Project description:** This project aims to analyze the visual characteristics of album artwork from various decades, with the goal of discovering patterns and trends that could be applied to the design of future album covers.
 
 **Tools Used:** Python (pandas, matplotlib, ColorThief, Spotipy, Glob), Excel
 
@@ -9,28 +11,27 @@ As an illustrator, I am all about the visuals. I've especially been drawn to alb
 In my search for new R&B albums, I found myself regularly visiting record stores in LA, browsing through the racks. It was during these trips that I couldn't help but be struck by the variety of colors and designs on the album covers and how they caught my eye. The more I looked, the more I appreciated the artistry and creativity that went into the design of these covers.
 
 
-Just recently, I looked through my CD collection and began to notice patterns in the color palettes used on the album covers and how they reflected the overall aesthetic of the decade it was released in and the tone of the music. This sparked my curiosity and led me to conduct a study about the relationship between color choice in album cover art and how it may influence consumer perception and behavior. 
+Just recently, I looked through my CD collection and began to notice patterns in the color palettes used on the album covers and how they reflected the overall aesthetic of the decade it was released in and the tone of the music. This sparked my curiosity and led me to conduct a study about the relationship between color trends for album artwork and musical trends in albums and how it may influence consumer perception and behavior. 
 
 ---
 
-## A Splash of Color: How Design Paints a Picture of Success
-Nomination and award snubs have been a longstanding issue at the Grammy Awards, with some artists and music industry insiders speaking out about the lack of diversity and inclusion at the awards show. For example, in 2021, The Weeknd, a Black artist, was shut out of major categories despite having a successful year with his pop album After Hours and its hit single "Blinding Lights." 
+## How Design Paints a Picture of Success
+Aside from the music itself, album artwork adds an extra layer of appeal for listeners. Whether it's a single, CD cover, digital album cover, vinyl sleeve, or other merchandise, the artwork serves as a unique and visually striking representation of the artist. Just like a well-designed logo can help a brand stand out in a crowded market, a visually striking album cover can do the same for an artist in the music industry. The artwork serves as a visual signature, instantly signaling to listeners which artist created the album.
+ 
+In addition to this, it's also important to consider the potential emotional and psychological effects that the colors in your design might have on the viewer.
 
-The Weeknd called out the Grammy Awards on social media, saying that "the Grammys remain corrupt" and that he would not be submitting his music for consideration in the future. This incident sparked a wider conversation about the lack of diversity and inclusion at the Grammy Awards and the need for change within the music industry.
+Color theory suggests that certain colors can evoke certain emotions and associations in the viewer. For example, red may be associated with passion and aggression, while blue may be associated with calmness and trustworthiness. The use of color in marketing and branding has long been a topic of interest in the field of psychology and design. Marketing experts often use color psychology to attract and influence customers, and this principle may also be applied to album cover art to create an impactful and memorable design (and ultimately, their decision to purchase an album).
 
-Black artists who do receive a nomination often face disproportionate recognition compared to White artists in certain categories. Black artists are frequently pigeonholed into specific categories, such as "urban" or "R&B," even if their music fits into a different genre. It can perpetuate the stereotype that Black artists are only capable of creating certain types of music, which is not only inaccurate but also harmful and dismissive of the diversity and creativity of Black artists.
 
-White artists, on the other hand, are more likely to be nominated in a wider range of categories, including R&B and hip-hop. Non-Black artists who make hip-hop and R&B music may be perceived as more palatable to mainstream audiences, and as a result, they may receive more recognition and award wins (e.g. Macklemore).
 
 <img src="images/2018_01_29_39578_1517200847._large.jpg"/>
 
 _Photo courtesy of NBC News._
 
-For instance, Bruno Mars, a non-Black artist, won seven Grammy Awards for his album 24K Magic, including Album of the Year, Record of the Year, and Song of the Year, in 2018. Mars' music, which blends elements of funk, soul, and pop, was widely praised for its catchy hooks and upbeat sound, but some critics argued that it did not break new ground in the way that some other Black artists were doing at the time.
-
 ---
 
-## Grammy's Golden Girl Gets the Bronze Treatment
+## Methodology:
+
 This project builds upon an Op-Ed published in the Los Angeles Times titled "Beyoncé's Grammy snub and the glass ceiling on black art," in which John Vilanova discusses how, despite being the most Grammy-nominated woman ever, Beyoncé's win rate is significantly lower than that of other artists.
 
 The data below, which covers the period up to 2020, for this comparison was drawn from nominations and wins from various award shows. Her most recent nominations have been excluded as the results are still pending at the time of this review. To narrow our focus, we will concentrate on the top five multicultural award shows based on popularity and cultural significance.

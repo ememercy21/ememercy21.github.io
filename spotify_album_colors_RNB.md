@@ -40,10 +40,24 @@ I used the 'ColorThief' library to extract the dominant color from each album co
 
 **Album Cover designs:** The album cover design is influenced by a lot of factors, color palettes are just one of them, other factors such as images, typography and overall layout also play a significant role in the final design, it's important to consider them in order to have a more complete understanding.
 
-Data:
+## Data:
+
+The data presented in the following sections provides an overview of my research findings. To effectively convey the information, I utilized both histograms and scatter plots as my main means of data visualization.
+
+An RGB histogram is a graphical representation of the distribution of colors in an image. It is made up of three separate histograms, one for each of the primary colors (red, green, and blue). The x-axis represents the color values (from 0-255), and the y-axis represents the frequency or count of pixels with that color value.
+
+A high frequency of a color means that there are a lot of pixels in the image with that color value. For example, if the red histogram has a high peak at a value of 200, it means that there are a lot of pixels in the image that are a bright red. This could indicate that the image has a lot of red elements in it, or that the overall color balance is skewed towards red.
+
+On the other hand, a low frequency of a color means that there are few pixels in the image with that color value. For example, if the green histogram has a low peak at a value of 50, it means that there are few pixels in the image that are a mid-tone green. This could indicate that the image has little green elements in it, or that the overall color balance is skewed away from green.
 
 
+<img src="images/spotify/histogram (90s).png"/>
 
+<img src="images/spotify/histogram (2000s).png"/>
+
+<img src="images/spotify/histogram (2010s).png"/>
+
+<img src="images/spotify/histogram (2020s).png"/>
 
 
 

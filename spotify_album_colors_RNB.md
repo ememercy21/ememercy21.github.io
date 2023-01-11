@@ -1,16 +1,19 @@
-# Lemons to Lemonade: A Sour Taste for Black Artists at Music's Most Prestigious Award Show
+# Color Me Impressed: A Data-Driven Exploration of Color and Design Trends Among Top-Selling R&B Albums
 
-**Project description:** The purpose of this comparison is to examine the recognition and valuation of a Black artist's work at different award institutions and to identify any discrepancies. This study aims to understande the music industry's view of Black artists and to consider the need for change in these systems.
+**Project description:** The purpose of this project is to examine the trends of album artwork over various decades and in hopes of identifying patterns and trends that could inform the design of future album covers.
 
-**Tools Used:** Excel, Tableau
+**Tools Used:** Python (pandas, matplotlib, ColorThief, Spotipy, Glob), Excel
 
-It's that time of year again, music fans! Time to get out the popcorn, crack open a cold one, and huddle around the TV like it's the NBA draft - but instead of ballers, we're picking apart the nominations at the 2023 Grammy Awards. That's right, it's Grammy season and there's been a lot of buzz about the nominations this year. As a self-proclaimed music nerd, I couldn't resist the urge to dive into the controversy surrounding the prestigious award show and see what's really going on beneath all that glitz and glamor.
+As an illustrator, I am all about the visuals. I've especially been drawn to album cover art and the way it can enhance the listening experience. This fascination led me to start building my own CD collection last year, as I wanted to have a tangible way to appreciate and collect music without relying on digital media (plus, it's just more fun to be able to flip through a physical collection and see all your favorite albums). 
 
-And who better to focus on than the one and only Beyoncé --- a highly visible and critically acclaimed artist who, despite having a diverse and groundbreaking discography, is often pigeonholed into the "urban" categories at the award ceremony. By using Beyoncé as the focus of the project, I was able to compare how various institutions view and categorize her work differently.
+In my search for new R&B albums, I found myself regularly visiting record stores in LA, browsing through the racks. It was during these trips that I couldn't help but be struck by the variety of colors and designs on the album covers and how they caught my eye. The more I looked, the more I appreciated the artistry and creativity that went into the design of these covers.
+
+
+Just recently, I looked through my CD collection and began to notice patterns in the color palettes used on the album covers and how they reflected the overall aesthetic of the decade it was released in and the tone of the music. This sparked my curiosity and led me to conduct a study about the relationship between color choice in album cover art and how it may influence consumer perception and behavior. 
 
 ---
 
-## The Grammys Have a Problem: A Look at the History of Snubbing Black Artists
+## A Splash of Color: How Design Paints a Picture of Success
 Nomination and award snubs have been a longstanding issue at the Grammy Awards, with some artists and music industry insiders speaking out about the lack of diversity and inclusion at the awards show. For example, in 2021, The Weeknd, a Black artist, was shut out of major categories despite having a successful year with his pop album After Hours and its hit single "Blinding Lights." 
 
 The Weeknd called out the Grammy Awards on social media, saying that "the Grammys remain corrupt" and that he would not be submitting his music for consideration in the future. This incident sparked a wider conversation about the lack of diversity and inclusion at the Grammy Awards and the need for change within the music industry.

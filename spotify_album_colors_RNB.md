@@ -108,7 +108,7 @@ Differences in color palettes among R&B album covers from different decades:
 
 ---
 
-## How can one stand out from the crowd this decade?
+## How can artists stand out from the crowd this decade?
 
 In the context of album covers, standing out might mean using colors that are unusual or unexpected, or using colors in a way that is particularly eye-catching. There are pros and cons to both following trends and choosing the opposite. Following trends can help an album cover fit in with what is popular at the time and appeal to a wide audience. However, it can also make the cover feel less unique and potentially less memorable.
 

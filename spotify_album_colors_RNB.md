@@ -1,6 +1,6 @@
 # Color Me Impressed: A Data-Driven Exploration of Color and Design Trends Among Top-Selling R&B Albums
 
-<img src=""/>
+<img src="images/spotify/zl7druj20vj81.png"/>
 
 **Project Description:** This project aims to analyze the visual characteristics of album artwork from various decades, with the goal of discovering patterns and trends that could be applied to the design of future album covers.
 

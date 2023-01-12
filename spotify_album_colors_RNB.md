@@ -136,21 +136,25 @@ Also, it's important to note that standing out doesn't always mean being differe
 In the end, it's all about understanding the target audience and what they want, and then finding a balance between standing out and fitting in. A well-designed cover can create a positive first impression and make the album more appealing to consumers. 
 
 ---
-_For future studies, I hope to analyze the lyrics of R&B songs and visualize the evolution of the themes and emotions over time, and then compare that to the corresponding album covers._
+
+*For future studies, I hope to analyze the lyrics of songs and visualize the evolution of the themes and emotions over time, and then compare that to the corresponding album covers.*
+
 ---
 
 **<a href="https://github.com/saracoop/modeling_spotify_api_data/blob/master/data_collection">saracoop's GitHub</a>**
 
+**<a href="https://github.com/ememercy21/ememercy21.github.io/blob/main/images/spotify/histograms.ipynb">My Jupyter Notebook Extras</a>
+
 **References**
 
-[1] Aswad, J. (2021, May 3). The Weeknd calls grammys 'corrupt,' despite inspiring their recent rule change: 'I will not be submitting music in the future' (EXCLUSIVE). Variety Daily. https://variety.com/2021/music/news/the-weeknd-grammys-corrupt-rule-change-1234964939/
+[1] Agbai, B. (n.d.). The evolution of R&B: from the 90s to now. Theboar.org. Retrieved January 12, 2023, from https://theboar.org/2020/11/the-evolution-of-rb/
 
-[2] Baade, C., & McGee, K. A. (Eds.). (2021). Beyonce in the world: Making meaning with Queen Bey in troubled times. Wesleyan University Press.
+[2] Alexander, L. (2016, May 19). The Y2K aesthetic: who knew the look of the year 2000 would endure? The Guardian. https://www.theguardian.com/technology/2016/may/19/year-2000-y2k-millennium-design-aesthetic
 
-[3] Colton, L. (2020). "Singing All the Time": Constructions of cultural identity in Beyoncé's I Am…Sasha Fierce. In Beyoncé: At Work, On Screen, and Online. Indiana University Press.
+[3] Babcock, G. (2022, July 29). The 25 best fashion trends of the early 2000s. Complex. https://www.complex.com/style/best-fashion-trends-of-early-2000s/rapper-clothing-brands
 
-[4] Fontes, R. (2020). Grammy Awards [Data set]. https://www.kaggle.com/datasets/unanimad/grammy-awards
+[4] Cliffen, J. (2015, November 11). Bedtracks — the relationship between music & colour. Bedtracks. https://www.bedtracks.com/blog/2015/11/10/the-relationship-between-music-colour-5-reasons-why-its-important
 
-[5] Rambsy, K. (2020). Storytelling with Data - the Beyonce Edition [Data set]. Texas Data Repository Dataverse. https://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/XL8NIX
+[5] Conceptdrop. (2018, March 13). Color theory: Marketing, branding, and the psychology of color. ConceptDrop. https://conceptdrop.com/blog/60-color-theory-the-psychology-of-color-marketing-and-branding/
 
-[6] Vilanova, J. (2017, February 13). Op-Ed: Beyoncé's Grammy snub and the glass ceiling on black art. The Los Angeles Times. https://www.latimes.com/opinion/op-ed/la-oe-vilanova-grammys-beyonce-adele-glass-ceiling-20170118-story.html
+[6] Rubio, A. (2020, April 28). 2010-2019: The evolution of design trends in the last decade. Freepik. https://www.freepik.com/blog/2010-2019-the-evolution-of-design-trends/

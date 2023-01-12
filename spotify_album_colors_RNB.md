@@ -36,7 +36,7 @@ I was inspired by a GitHub project called "modeling_spotify_api_data" created by
 
 For my own study, I decided to focus on a specific genre, R&B, in order to narrow my focus to a specific type of consumer. I created 4 different playlists on Spotify for four different eras (90s, 2000s, 2010s, and 2020s) to extract information from the top 330 R&B albums from the 1990 to 2022 (top ten albums per year - the list was devised by aggregating more than 50 best-of lists focused on R&B and soul albums - these figures were averaged with the albums’ overall status).
 
-I used the 'Spotipy' library to extract the neccesary information (artist, album photo, etc.) and the 'ColorThief' library to extract the dominant color from each album cover. I cleaned the data using Excel, then used the 'pandas' library to analyze and visualize the data, looking for trends and patterns in the distribution of dominant colors. I also used 'matplotlib' to create charts and graphs to help illustrate my findings.
+I used the 'Spotipy' library to extract the necessary information (artist, album photo, etc.) and the 'ColorThief' library to extract the dominant color from each album cover. I cleaned the data using Excel, then used the 'pandas' library to analyze and visualize the data, looking for trends and patterns in the distribution of dominant colors. I also used 'matplotlib' to create charts and graphs to help illustrate my findings.
 
 ### Limitations
 

@@ -1,6 +1,6 @@
 # Color Me Impressed: A Data-Driven Exploration of Color and Design Trends Among Top-Selling R&B Albums
 
-<img src="images/spotify/zl7druj20vj81.png"/>
+<img src="images/spotify/title pic.png"/>
 
 **Project Description:** This project aims to analyze the visual characteristics of album artwork from various decades, with the goal of discovering patterns and trends that could be applied to the design of future album covers.
 
@@ -20,7 +20,9 @@ Aside from the music itself, album artwork adds an extra layer of appeal for lis
  
 In addition to this, it's also important to consider the potential emotional and psychological effects that the colors in your design might have on the viewer.
 
-Color theory suggests that certain colors can evoke certain emotions and associations in the viewer. For example, red may be associated with passion and aggression, while blue may be associated with calmness and trustworthiness. The use of color in marketing and branding has long been a topic of interest in the field of psychology and design. Marketing experts often use color psychology to attract and influence customers, and this principle may also be applied to album cover art to create an impactful and memorable design (and ultimately, their decision to purchase an album).
+Color theory suggests that certain colors can evoke certain emotions and associations in the viewer. For example, red may be associated with passion and aggression, while blue may be associated with calmness and trustworthiness. The use of color in marketing and branding has long been a topic of interest in the field of psychology and design. 
+
+Marketing experts often use color psychology to attract and influence customers, and this principle may also be applied to album cover art to create an impactful and memorable design (and ultimately, their decision to purchase an album).
 
 <img src="images/spotify/image-asset.jpeg"/>
 
@@ -28,7 +30,7 @@ _Photo courtesy of Bedtracks._
 
 ---
 
-## Methodology:
+## Methodology
 
 I was inspired by a GitHub project called "modeling_spotify_api_data" created by saracoop, in which they developed a Visual AI model that could accurately predict an album's genre or popularity based on data from the Spotify API. 
 
@@ -36,33 +38,103 @@ For my own study, I decided to focus on a specific genre, R&B, in order to narro
 
 I used the 'ColorThief' library to extract the dominant color from each album cover. I then used the 'pandas' library to analyze and visualize the data, looking for trends and patterns in the distribution of dominant colors. We also used 'matplotlib' to create charts and graphs to help illustrate my findings.
 
-### Limitations:
+### Limitations
 
-**Album Cover designs:** The album cover design is influenced by a lot of factors, color palettes are just one of them, other factors such as images, typography and overall layout also play a significant role in the final design, it's important to consider them in order to have a more complete understanding.
+**Album cover designs:** The album cover design is influenced by a lot of factors, color palettes are just one of them, other factors such as images, typography and overall layout also play a significant role in the final design, it's important to consider them in order to have a more complete understanding.
 
-## Data:
+---
+
+## Data
 
 The data presented in the following sections provides an overview of my research findings. To effectively convey the information, I utilized both histograms and scatter plots as my main means of data visualization.
 
-An RGB histogram is a graphical representation of the distribution of colors in an image. It is made up of three separate histograms, one for each of the primary colors (red, green, and blue). The x-axis represents the color values (from 0-255), and the y-axis represents the frequency or count of pixels with that color value.
+<ins>RGB Histograms:</ins>
+ An RGB histogram is a graphical representation of the distribution of colors in an image. It is made up of three separate histograms, one for each of the primary colors (red, green, and blue). The x-axis represents the color values (from 0-255), and the y-axis represents the frequency or count of pixels with that color value.
+
+In an RGB histogram, the peaks (or the bars) would indicate the dominant colors in a group of images. The heights of the peaks represent the frequency. So, the taller the peak, the more frequent that color is in each dataset.
 
 A high frequency of a color means that there are a lot of pixels in the image with that color value. For example, if the red histogram has a high peak at a value of 200, it means that there are a lot of pixels in the image that are a bright red. This could indicate that the image has a lot of red elements in it, or that the overall color balance is skewed towards red.
 
 On the other hand, a low frequency of a color means that there are few pixels in the image with that color value. For example, if the green histogram has a low peak at a value of 50, it means that there are few pixels in the image that are a mid-tone green. This could indicate that the image has little green elements in it, or that the overall color balance is skewed away from green.
 
-
 <img src="images/spotify/histogram (90s).png"/>
+
+_This histogram implies that the album covers from the 90s primarily feature high amounts of red, sepia-toned browns, and yellows as their dominant colors. Additionally, it also suggests that there is a substantial presence of light blue and teal tones among the dominant colors._
 
 <img src="images/spotify/histogram (2000s).png"/>
 
+_This histogram implies that the album covers from the 2000s primarily feature high amounts of mid tone greens, browns, and blues as their dominant colors. Additionally, it also suggests that there is a substantial presence of light pinks and magenta tones among the dominant colors._
+
 <img src="images/spotify/histogram (2010s).png"/>
 
+_This histogram implies that the album covers from the 2010s primarily feature high amounts of mid tone greens, browns, and blues as their dominant colors. Additionally, it also suggests that there is a substantial presence of light blues and magenta tones among the dominant colors._
+
+<ins>Color Maps:</ins>
+ Color maps are visual representations of the color distribution in an image. They are typically created by mapping the color values of an image to a fixed set of colors, and then displaying the results in a grid or a heat map format. 
+
+Color maps can be useful for analyzing trends in album cover color palettes because they can provide a quick and intuitive way to identify patterns in the color distribution. For example, if a color map shows a cluster of similar colors in one area, it could indicate that a certain color scheme is being used consistently across many album covers.
+
+<img src="images/spotify/3D color map (90s).png"/>
+
+* a 
+
+<img src="images/spotify/3D color map (2000s).png"/>
+
+
+
+<img src="images/spotify/3D color map (2010s).png"/>
+
+<img src="images/spotify/3D color map (2020s).png"/>
+
+
+
+
+### Further Analysis
+
+Differences in color palettes among R&B album covers from different decades:
+
+<img src="images/spotify/90s.png"/>
+
+90s: R&B albums covers from the 90s might have a more muted or subdued color palette, with a focus on earth tones, such as brown, beige, and navy blue, which were popular colors during that decade. They may also use cool, metallic tones of green and blue to reflect the emergence of Y2K in the mid nineites (reaching its peak in 1999).
+
+<img src="images/spotify/2000s.png"/>
+
+2000s: R&B album covers from the 2000s may have a more polished and glossy look, using a lot of metallic colors like silver and gold and brighter colors like reds and blues. Also, they may incorporate patterns and textures in the cover designs, this could be a reflection of the influence of Hip-Hop culture which was at its peak during the 2000s.
+
+<img src="images/spotify/2010s.png"/>
+
+2010s: R&B album covers from the 2010s may incorporate more minimalistic and modern designs, with a focus on bold typography and simple graphics. They may also use more neutral colors like black, white, and gray, as well as pastel colors and gradient colors which were popular during that decade.
+
+<img src="images/spotify/2020s.png"/>
+
+2020s: R&B album covers from the 2020s may be more diverse in terms of color palettes, as R&B has gone through many subgenres like neo-soul, R&B trap and so on, each with its own aesthetic. That being said, it could be possible to still see a trend of using a lot of bright colors, bold typography but also a lot of gradient colors, duotones and vintage, washed colors.
+
+
+
+
+## How can one stand out from the crowd?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="images/spotify/histogram (2020s).png"/>
-
-
-
-
-
+This histogram suggests that there is high frequency of dominant reds, browns, and yellows for album covers in the 2020s.
 
 **Total Number of entries at each award show:**
 

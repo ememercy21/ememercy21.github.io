@@ -30,7 +30,7 @@ For instance, Bruno Mars, a non-Black artist, won seven Grammy Awards for his al
 ## Grammy's Golden Girl Gets the Bronze Treatment
 This project builds upon an Op-Ed published in the Los Angeles Times titled "Beyoncé's Grammy snub and the glass ceiling on black art," in which John Vilanova discusses how, despite being the most Grammy-nominated woman ever, Beyoncé's win rate is significantly lower than that of other artists.
 
-The data below, which covers the period up to 2020, for this comparison was drawn from nominations and wins from various award shows. Her most recent nominations have been excluded as the results are still pending at the time of this review. To narrow our focus, we will concentrate on the top five multicultural award shows based on popularity and cultural significance.
+The data below was scrapped from Kenton Rambsy "Storytelling with Data" dataset and cleaned using Excel. The data contains nominations and wins from various award shows. Her most recent nominations have been excluded as the results are still pending at the time of this review. To narrow our focus, we will concentrate on the top five multicultural award shows based on popularity and cultural significance and in comparison to the Grammys.
 
 The award type "Race" encompasses award categories that fall under the genres of R&B and hip hop (such as, but not limited to Best R&B Album, Best Rap Album, and Best Rap Performance, among others), which are both predominantly created by Black artists. It's important to highlight that some Black artists are often boxed into these categories, even if they don't primarily make this type of music.
 
@@ -127,10 +127,6 @@ While it is important for the Recording Academy to have a multifaceted array of 
 <img src="images/beyonce-tiffanys-summer-renaissance-tgj.jpg"/>
 
 _'Renaissance', an album about escapism and self expression, celebrates the long legacy of Black musicians, figures, and creatives. It contains elements of Afrobeats, house, dance, funk/disco, and pop, genres that she has delved into on past albums. Photo courtesy of That Grape Juice._
-
-As a Black woman who has lived and studied the history, culture, and politics of the peoples of the African diaspora and Africa, this project felt personal. Beyoncé was the gateway through which I could begin to consider what institutional barriers impede upon the success of Black people. To understand Beyoncé's work, it is necessary to take into account every dimension of her audiovisual output as well as the broader reception of this product. 
-
-If we omit the racial and racist history behind the representation of Black art next to the everyday forms of exclusion and racism that they are forced to confront, it is impossible to recognize the full significance of Beyoncé's and countless others discursive and performative politics.
 
 It is time for a Renaissance in the Grammy Awards, with a renewed focus on diversity and inclusion and a commitment to recognizing and celebrating the diverse talents of artists from all backgrounds. This can be achieved through a number of steps, including expanding the pool of judges and nominees to be more representative of the music industry as a whole, and revisiting the categories and criteria used to evaluate music. 
 

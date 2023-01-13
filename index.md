@@ -4,7 +4,7 @@
 
 ### Featured 
 
-[Color Me Impressed](/spotify_album_colors_RNB.md)
+[Color Me Impressed](/color_me_impressed.md)
 
 <img src="images/spotify/title pic.png?raw=true"/>
 

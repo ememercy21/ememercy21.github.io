@@ -32,7 +32,7 @@ This project builds upon an Op-Ed published in the Los Angeles Times titled "Bey
 
 The data below was scrapped from Kenton Rambsy "Storytelling with Data" dataset and cleaned using Excel. The data contains nominations and wins from various award shows. Her most recent nominations have been excluded as the results are still pending at the time of this review. To narrow our focus, we will concentrate on the top five multicultural award shows based on popularity and cultural significance and in comparison to the Grammys.
 
-The award type "Race" encompasses award categories that fall under the genres of R&B and hip hop (such as, but not limited to Best R&B Album, Best Rap Album, and Best Rap Performance, among others), which are both predominantly created by Black artists. It's important to highlight that some Black artists are often boxed into these categories, even if they don't primarily make this type of music.
+According to Rambsy, the award type "Race" encompasses award categories that fall under the genres of R&B and hip hop (such as, but not limited to Best R&B Album, Best Rap Album, and Best Rap Performance, among others), which are both predominantly created by Black artists. It's important to highlight that some Black artists are often boxed into these categories, even if they don't primarily make this type of music.
 
 **Total Number of entries at each award show:**
 

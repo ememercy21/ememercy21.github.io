@@ -143,7 +143,7 @@ In the end, it's all about understanding the target audience and what they want,
 
 **<a href="https://github.com/saracoop/modeling_spotify_api_data/blob/master/data_collection">saracoop's GitHub</a>**
 
-**<a href="https://github.com/ememercy21/ememercy21.github.io/blob/main/images/spotify/histograms.ipynb">My Jupyter Notebook Extras</a>
+**<a href="https://github.com/ememercy21/ememercy21.github.io/blob/main/images/spotify/Spotify Albums RNB Project.ipynb">My Jupyter Notebook Extras</a>
 
 **References**
 

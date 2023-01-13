@@ -92,19 +92,23 @@ Color maps can be useful for analyzing trends in album cover color palettes beca
 
 ### Further Analysis
 
+The typical sound of R&B in the 90s was characterized by a smooth, soulful sound with a strong emphasis on vocals and live instrumentation. In the 2000s, R&B incorporated more elements of hip-hop and electronic music, resulting in a more upbeat and energetic sound. In the 2010s, R&B continued to evolve with the incorporation of more unique elements and experimentation with different sounds and styles. 
+
+Overall, the energy, valence, and tempo of R&B have varied over time, with different sub-genres and artist trends contributing to these changes. 
+
 Differences in color palettes among R&B album covers from different decades:
 
 <img src="images/spotify/90s.png"/>
 
-<ins>90s:</ins> R&B albums covers from the 90s might have a more muted or subdued color palette, with a focus on earth tones, such as brown, beige, and navy blue, which were popular colors during that decade. They may also use cool, metallic tones of green and blue to reflect the emergence of Y2K in the mid nineties (reaching its peak in 1999).
+<ins>90s:</ins> R&B albums covers from the 90s might have a more muted or subdued color palette, with a focus on earth tones, such as brown, beige, and navy blue, which were popular colors during that decade. They may also use cool, metallic tones of green and blue to reflect the emergence of Y2K in the mid nineties (reaching its peak in 1999) or rich colors that conveyed a sense of depth and emotion.
 
 <img src="images/spotify/2000s.png"/>
 
-<ins>2000s:</ins> R&B album covers from the 2000s may have a more polished and glossy look, using a lot of metallic colors like silver and gold and brighter colors like reds and blues. Also, they may incorporate patterns and textures in the cover designs, this could be a reflection of the influence of Hip-Hop culture which was at its peak during the 2000s.
+<ins>2000s:</ins> R&B album covers from the 2000s may have a more polished and glossy look, using a lot of metallic colors like silver and gold and brighter colors like reds and blues. Also, they may incorporate patterns and textures in the cover designs, this could be a reflection of the influence of Hip-Hop culture and electronic music, which was at its peak during the late 2000s.
 
 <img src="images/spotify/2010s.png"/>
 
-<ins>2010s:</ins> R&B album covers from the 2010s may incorporate more minimalistic and modern designs, with a focus on bold typography and simple graphics. They may also use more neutral colors like black, white, and gray, as well as pastel colors and gradient colors which were popular during that decade.
+<ins>2010s:</ins> R&B album covers from the 2010s may incorporate more minimalistic and modern designs, with a focus on bold typography and simple graphics as the genre became more experimental. They may also use more neutral colors like black, white, and gray, as well as pastel colors and gradient colors which were popular during that decade.
 
 ---
 
@@ -117,7 +121,7 @@ With R&B music crossing over different sub-genres, it could be beneficial to loo
 
 <img src="images/spotify/2020s.png"/>
 
-<ins>2020s:</ins> R&B album covers from the 2020s may be more diverse in terms of color palettes, as R&B has gone through many subgenres like neo-soul, R&B trap and so on, each with its own aesthetic. That being said, it could be possible to still see a trend of using a lot of bright colors, bold typography but also a lot of gradient colors, duotones and vintage, washed out colors.
+<ins>2020s:</ins> R&B album covers from the 2020s may continue to be more diverse, reflecting the different sounds and styles of the music. R&B has incorporated many subgenres like neo-soul, R&B trap and Afrobeats, each with its own aesthetic. That being said, it could be possible to still see a trend of using a lot of bright colors, bold typography but also a lot of gradient colors, duotones and vintage, washed out colors.
 
 
 <img src="images/spotify/histogram (2020s).png"/>

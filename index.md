@@ -22,5 +22,3 @@
 
 ---
 [Resume](/pdf/Mercy Eme Resume.pdf)
-
-[Tableau Public Profile](https://public.tableau.com/app/profile/mercy.eme)

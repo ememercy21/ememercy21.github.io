@@ -10,7 +10,7 @@
 
 ---
 
-[Lemons to Lemonade](/grammy_project.md)
+[Lemons to Lemonade](/lemonade_grammys.md)
 
 <img src="images/Beyonce Dashboard 3.png?raw=true"/>
 

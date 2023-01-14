@@ -17,3 +17,4 @@
 ---
 [Resume](/pdf/Mercy Eme Resume.pdf)
 
+[Lemons to Lemonade](/lemonade_grammys.md)

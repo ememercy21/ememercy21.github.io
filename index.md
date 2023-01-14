@@ -15,6 +15,8 @@
 <img src="images/FRmZ-v5UUAALKsN.png?raw=true"/>
 
 ---
+[Lemons to Lemonade](/lemonade_grammys.md)
+
 [Resume](/pdf/Mercy Eme Resume.pdf)
 
-[Lemons to Lemonade](/lemonade_grammys.md)
+

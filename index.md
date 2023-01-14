@@ -10,15 +10,11 @@
 
 ---
 
-[Lemons to Lemonade](/lemonade_grammys.md)
-
-<img src="images/Beyonce Dashboard 3.png?raw=true"/>
-
----
-
 [Streets of Vintage Client Project](/pdf/Streets of Vintage Client Project Presentation.pdf)
 
 <img src="images/FRmZ-v5UUAALKsN.png?raw=true"/>
 
 ---
 [Resume](/pdf/Mercy Eme Resume.pdf)
+
+[Lemons to Lemonade](/lemonade_grammys.md)

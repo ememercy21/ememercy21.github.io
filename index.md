@@ -15,6 +15,8 @@
 <img src="images/FRmZ-v5UUAALKsN.png?raw=true"/>
 
 ---
+[Health Monitoring App Pitch Deck](/pdf/Team-HealthTech2-Pitch-Deck.pptx.pdf)
+
 [Lemons to Lemonade](/lemonade_grammys.md)
 
 [Resume](/pdf/Mercy Eme Resume.pdf)

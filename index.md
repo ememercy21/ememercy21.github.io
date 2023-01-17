@@ -19,6 +19,6 @@
 
 [Lemons to Lemonade](/lemonade_grammys.md)
 
-[Resume](/pdf/Mercy Eme Resume.pdf)
+[Resume](/pdf/Copy of Mercy Eme_Resume.pdf)
 
 

@@ -105,7 +105,7 @@ Differences in color palettes among R&B album covers from different decades:
 
 <img src="images/spotify/2000s.png"/>
 
-<ins>2000s:</ins> R&B album covers from the 2000s may have a more polished and glossy look, using a lot of metallic colors like silver and gold and brighter colors like reds and blues. Also, they may incorporate patterns and textures in the cover designs, this could be a reflection of the influence of Hip-Hop culture and electronic music, which was at its peak during the late 2000s. The metallic look became popular as a reflection of the optimism and excitement of the new millennium. The technology advancements and the popularization of the internet and social media, have led to a more connected and globalized world, which was reflected in the use of clean, bright colors.
+<ins>2000s:</ins> R&B album covers from the 2000s may have a more polished and glossy look, using a lot of metallic colors like silver and gold and brighter colors like reds and blues. Also, they may incorporate patterns and textures in the cover designs, this could be a reflection of the influence of Hip-Hop culture and electronic music, which was at its peak during the late 2000s. The metallic look became popular as a reflection of the optimism and excitement of the new millennium. The technological advancements and the popularization of the internet and social media, have led to a more connected and globalized world, which was reflected in the use of clean, bright colors.
 
 <img src="images/spotify/2010s.png"/>
 

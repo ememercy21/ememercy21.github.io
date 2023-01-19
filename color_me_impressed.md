@@ -2,7 +2,8 @@
 
 <img src="images/spotify/title pic.png"/>
 
-**Project Description:** This project aims to analyze the visual characteristics of album artwork from various decades, with the goal of discovering patterns and trends that could be applied to the design of future album covers.
+**Project Summary:**  This project is an analysis of visual characteristics of album artwork of R&B albums throughout the decades. The goal is to discover patterns and trends that could be applied to the design of future album covers. The study uses Python tools such as pandas, matplotlib, ColorThief, Spotipy, Glob, and Excel to extract data from Spotify's API on R&B albums from the past 30 years, focusing on the color palettes used in the album artwork. The study also explores the potential emotional and psychological effects that the colors in the design might have on the viewer based on the time period, and how it may influence consumer perception and behavior.
+
 
 **Tools Used:** Python (pandas, matplotlib, ColorThief, Spotipy, Glob), Excel
 

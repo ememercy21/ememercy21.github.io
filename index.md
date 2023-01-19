@@ -15,7 +15,7 @@
 <img src="images/FRmZ-v5UUAALKsN.png?raw=true"/>
 
 ---
-[Health Monitoring App Pitch Deck](/pdf/Team-HealthTech2-Pitch-Deck.pptx.pdf)
+[Health Monitoring App Mock Pitch Deck - Young Tech Professionals @ UCLA](/pdf/Team-HealthTech2-Pitch-Deck.pptx.pdf)
 
 [Lemons to Lemonade](/lemonade_grammys.md)
 

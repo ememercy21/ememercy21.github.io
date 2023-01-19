@@ -1,6 +1,8 @@
 # Lemons to Lemonade: A Sour Taste for Black Artists at Music's Most Prestigious Award Show
 
-**Project Summary:** This project examines the recognition and valuation of Black artists' work at different award institutions, with a focus on Beyoncé, in order to identify any discrepancies and understand the music industry's view of Black artists. The project also looks at the history of snubbing Black artists at the Grammy Awards, where there has been a lack of diversity and inclusion, and how Black artists are often pigeonholed into specific categories, while white artists are nominated in a wider range of categories. The project builds upon an Op-Ed discussing Beyoncé's lower win rate despite being the most Grammy-nominated woman ever. The data was scraped from a dataset and cleaned using Excel.
+**Project Summary:** This project examines the recognition and valuation of Black artists' work at different award institutions, with a focus on Beyoncé, in order to identify any discrepancies and understand the music industry's view of Black artists. The project also looks at the history of snubbing Black artists at the Grammy Awards, where there has been a lack of diversity and inclusion, and how Black artists are often pigeonholed into specific categories, while white artists are nominated in a wider range of categories. 
+
+The project builds upon an Op-Ed discussing Beyoncé's lower win rate despite being the most Grammy-nominated woman ever. The data was scraped from a dataset and cleaned using Excel.
 
 
 **Tools Used:** Excel, Tableau

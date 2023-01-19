@@ -101,15 +101,21 @@ Differences in color palettes among R&B album covers from different decades:
 
 <img src="images/spotify/90s.png"/>
 
-<ins>90s:</ins> R&B albums covers from the 90s might have a more muted or subdued color palette, with a focus on earth tones, such as brown, beige, and navy blue, which were popular colors during that decade. They may also use cool, metallic tones of green and blue to reflect the emergence of Y2K in the mid nineties (reaching its peak in 1999) or rich colors that conveyed a sense of depth and emotion. Earth tones became popular in the 90s as a reaction to the excess of the 80s (ex. New Jack Swing movement), as people were looking for a more natural and organic aesthetic. People gravitated towards earth tones because they represented a sense of calm and simplicity in a time of rapid change and uncertainty.
+<ins>90s:</ins> R&B albums covers from the 90s might have a more muted or subdued color palette, with a focus on earth tones, such as brown, beige, and navy blue, which were popular colors during that decade. They may also use cool, metallic tones of green and blue to reflect the emergence of Y2K in the mid nineties (reaching its peak in 1999) or rich colors that conveyed a sense of depth and emotion. 
+
+Earth tones became popular in the 90s as a reaction to the excess of the 80s (ex. New Jack Swing movement), as people were looking for a more natural and organic aesthetic. People gravitated towards earth tones because they represented a sense of calm and simplicity in a time of rapid change and uncertainty.
 
 <img src="images/spotify/2000s.png"/>
 
-<ins>2000s:</ins> R&B album covers from the 2000s may have a more polished and glossy look, using a lot of metallic colors like silver and gold and brighter colors like reds and blues. Also, they may incorporate patterns and textures in the cover designs, this could be a reflection of the influence of Hip-Hop culture and electronic music, which was at its peak during the late 2000s. The metallic look became popular as a reflection of the optimism and excitement of the new millennium. The technological advancements and the popularization of the internet and social media, have led to a more connected and globalized world, which was reflected in the use of clean, bright colors.
+<ins>2000s:</ins> R&B album covers from the 2000s may have a more polished and glossy look, using a lot of metallic colors like silver and gold and brighter colors like reds and blues. Also, they may incorporate patterns and textures in the cover designs, this could be a reflection of the influence of Hip-Hop culture and electronic music, which was at its peak during the late 2000s. 
+
+The metallic look became popular as a reflection of the optimism and excitement of the new millennium. The technological advancements and the popularization of the internet and social media, have led to a more connected and globalized world, which was reflected in the use of clean, bright colors.
 
 <img src="images/spotify/2010s.png"/>
 
-<ins>2010s:</ins> R&B album covers from the 2010s may incorporate more minimalistic and modern designs, with a focus on bold typography and simple graphics as the genre became more experimental. They may also use more neutral colors like black, white, and gray, as well as pastel colors and gradient colors which were popular during that decade. The influence of digital technology and the rise of digital media ultimately contributed to the popularity of these styles. With the increased use of digital devices and the internet, people were exposed to a vast array of design styles and visual aesthetics that would allow them to push boundaries.
+<ins>2010s:</ins> R&B album covers from the 2010s may incorporate more minimalistic and modern designs, with a focus on bold typography and simple graphics as the genre became more experimental. They may also use more neutral colors like black, white, and gray, as well as pastel colors and gradient colors which were popular during that decade. 
+
+The influence of digital technology and the rise of digital media ultimately contributed to the popularity of these styles. With the increased use of digital devices and the internet, people were exposed to a vast array of design styles and visual aesthetics that would allow them to push boundaries.
 
 ---
 

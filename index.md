@@ -15,9 +15,9 @@
 <img src="images/Guap-cover-page-14-1140x850.png"/>
 
 ---
-[Health Monitoring App Mock Pitch Deck - Young Tech Professionals @ UCLA](/pdf/Team-HealthTech2-Pitch-Deck.pptx.pdf)
+[Monitoring Brain Drain in the United States](pdf/[MERGED] STATS 418 Final Presentation and Paper.pdf)
 
-[Lemons to Lemonade](/lemonade_grammys.md)
+[Creative Portfolio](/lemonade_grammys.md)
 
 [Resume](/pdf/Copy of Mercy Eme_Resume.pdf)
 

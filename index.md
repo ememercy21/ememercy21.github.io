@@ -12,7 +12,7 @@
 
 [The "Beyconomics" of Ticket Buying](pdf/EME, MERCY - STATS 404 Final Presentation.pdf)
 
-<img src="images/FRmZ-v5UUAALKsN.png?raw=true"/>
+<img src="images/Guap-cover-page-14-1140x850.png"/>
 
 ---
 [Health Monitoring App Mock Pitch Deck - Young Tech Professionals @ UCLA](/pdf/Team-HealthTech2-Pitch-Deck.pptx.pdf)

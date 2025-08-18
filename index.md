@@ -17,7 +17,7 @@
 ---
 [Monitoring Brain Drain in the United States](pdf/[MERGED] STATS 418 Final Presentation and Paper.pdf)
 
-[Creative Portfolio](/lemonade_grammys.md)
+[Creative Portfolio](pdf/Mercy Eme - Creative Portfolio.pdf)
 
 [Resume](/pdf/Copy of Mercy Eme_Resume.pdf)
 

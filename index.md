@@ -10,7 +10,7 @@
 
 ---
 
-[Streets of Vintage Client Project](/pdf/Streets of Vintage Client Project Presentation.pdf)
+[The "Beyconomics" of Ticket Buying](pdf/EME, MERCY - STATS 404 Final Presentation.pdf)
 
 <img src="images/FRmZ-v5UUAALKsN.png?raw=true"/>
 

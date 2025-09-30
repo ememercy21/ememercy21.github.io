@@ -19,6 +19,6 @@
 
 [Creative Portfolio](pdf/Mercy Eme - Creative Portfolio.pdf)
 
-[Resume](pdf/Mercy Eme_Resume.pdf)
+[Resume](pdf/Copy of Mercy Eme_Resume.pdf)
 
 

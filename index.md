@@ -10,7 +10,7 @@
 
 ---
 
-[The "Beyconomics" of Ticket Buying](pdf/EME, MERCY - STATS 404 Final Presentation.pdf)
+[The "Beyconomics" of Ticket Buying](pdf/The Beyconomics of Ticket Buying Presentation-merged.pdf)
 
 <img src="images/Guap-cover-page-14-1140x850.png"/>
 

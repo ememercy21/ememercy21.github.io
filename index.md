@@ -19,6 +19,4 @@
 
 [Creative Portfolio](pdf/Mercy Eme - Creative Portfolio.pdf)
 
-[Resume](pdf/Copy of Copy of Mercy Eme__Resume (UCLA).docx.pdf)
-
 

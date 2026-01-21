@@ -10,7 +10,7 @@
 
 ---
 
-[The "Beyconomics" of Ticket Buying](ememercy21.github.io/beyonce-ticket-analysis)
+[The "Beyconomics" of Ticket Buying](/beyonce-ticket-analysis)
 
 <img src="images/Guap-cover-page-14-1140x850.png"/>
 

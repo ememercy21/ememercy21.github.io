@@ -12,7 +12,7 @@
 
 [The "Beyconomics" of Ticket Buying](/beyonce-ticket-analysis)
 
-<img src="images/Guap-cover-page-14-1140x850.png"/>
+<img src="images/bey tickets flat.PNG"/>
 
 ---
 [Monitoring Brain Drain in the United States](pdf/[MERGED] STATS 418 Final Presentation and Paper.pdf)

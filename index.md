@@ -6,7 +6,7 @@
 
 [![Color Me Impressed](images/spotify/title pic.png?raw=true)](/color_me_impressed.md)
 [Color Me Impressed](/color_me_impressed.md)
-<br> </br>
+<br>
 *Exploring R&B album aesthetics through data*
 
 
@@ -14,10 +14,9 @@
 
 [![Beyconomics](images/bey tickets flat.PNG)](/beyonce-ticket-analysis)
 [The "Beyconomics" of Ticket Buying](/beyonce-ticket-analysis)
-<br> </br>
+<br>
 *A deep dive into Renaissance World Tour ticket data*
 
-<img src="images/bey tickets flat.PNG"/>
 
 ---
 

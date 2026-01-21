@@ -10,7 +10,7 @@
 
 ---
 
-[The "Beyconomics" of Ticket Buying](pdf/The Beyconomics of Ticket Buying Presentation-merged.pdf)
+[The "Beyconomics" of Ticket Buying](ememercy21.github.io/beyconomics)
 
 <img src="images/Guap-cover-page-14-1140x850.png"/>
 
@@ -18,5 +18,3 @@
 [Monitoring Brain Drain in the United States](pdf/[MERGED] STATS 418 Final Presentation and Paper.pdf)
 
 [Creative Portfolio](pdf/Mercy Eme - Creative Portfolio.pdf)
-
-

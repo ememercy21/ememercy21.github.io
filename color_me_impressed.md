@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Color Me Impressed: An Exploration of Color and Design Trends Among Top-Selling R&B Albums
 
 <img src="images/spotify/title pic.png"/>

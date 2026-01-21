@@ -4,7 +4,7 @@
 
 ### Featured 
 
-[![Color Me Impressed](images/spotify/title pic.png?raw=true)](color_me_impressed.md)
+[![Color Me Impressed](images/spotify/title pic.png?raw=true)](color_me_impressed.html)
 [Color Me Impressed](color_me_impressed.md)
 <br>
 *Exploring R&B album aesthetics through data*

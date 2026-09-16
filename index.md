@@ -22,7 +22,7 @@
 
 ### More Work
 
-[Monitoring Brain Drain in the United States](pdf/[MERGED] STATS 418 Final Presentation and Paper.pdf)
+[Measuring Economic Opportunity Through Social Capital and Mobility](pdf/brain_drain_presentation_deck.pdf)
 
 [Creative Portfolio](pdf/Mercy Eme - Creative Portfolio.pdf)
 

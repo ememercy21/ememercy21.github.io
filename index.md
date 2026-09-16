@@ -20,7 +20,7 @@
 
 ---
 
-[![LA Metro Gentrification Risk](images/LA_Metro_Cover.jpeg)](/la-metro-gentrification-risk)
+[![LA Metro Gentrification Risk](images/LA_Metro.PNG)](/la-metro-gentrification-risk)
 [LA Metro Gentrification Risk](/la-metro-gentrification-risk)
 <br>
 *Tracing neighborhood change along Los Angeles rail lines*
